@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nama": "Dimas Rizky Pandi Aprilio",
+    "nim": "24010110175",
+    "deskripsi": "merupakan master dari uts ini dengan tugas membuat front-end dan mengirimkannya ke grup",
+    "foto": "frontend/assets/dimas.jpg",
+    "avatar": "DR",
+    "warna": "biru"
+  },
+  {
+    "id": 2,
+    "nama": "Nadia Elastriani",
+    "nim": "24010110160",
+    "deskripsi": "dengan NIM 24010110160 merupakan anggota dan mempunyai tugas mengerjakan back-end pada UTS ini",
+    "foto": "frontend/assets/anggota.jpg",
+    "avatar": "NE",
+    "warna": "hijau"
+  }
+]
